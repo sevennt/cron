@@ -1,3 +1,3 @@
-module github.com/sevennt/cron/v3
+module github.com/sevennt/cron
 
 go 1.12
